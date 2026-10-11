@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "dummyrepo",
+  "versions": [
+    {
+      "commit": "69ea67ec88e556eb36b158506d1222a68e58f28c",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:58:11.560018+00:00"
+    }
+  ]
+}
