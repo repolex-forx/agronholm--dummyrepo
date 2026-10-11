@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "dummyrepo",
+  "versions": [
+    {
+      "commit": "69ea67ec88e556eb36b158506d1222a68e58f28c",
+      "parsed_at": "2026-10-11T20:55:52.910189+00:00",
+      "filetree": "filetree/69ea67ec88e556eb36b158506d1222a68e58f28c.nq.gz",
+      "blobs": [
+        "blob/0495c4a88caed0f036ffab0948c17d4b5fdc96c1.nq.gz",
+        "blob/bb761dedd273709651613f13134e23bdef5e6d5c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
